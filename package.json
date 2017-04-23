@@ -7,5 +7,19 @@
     "keywords": ["util", "functional", "server", "client", "browser"],
     "author": "Administrator",
     "contributors": [],
-    "dependencies": {}
+    "dependencies": {
+        "body-parser": "^1.16.0",
+        "connect-redis": "^3.2.0",
+        "cookie-parser": "^1.4.3",
+        "express": "^4.14.0",
+        "express-session": "^1.14.2",
+        "morgan": "^1.7.0",
+        "npmlog": "^4.0.2",
+        "passport": "^0.3.2",
+        "passport-google": "^0.3.0",
+        "passport-google-oauth": "^1.0.0",
+        "q": "^1.4.1",
+        "redis": "^2.6.5",
+        "request": "^2.79.0"
+    }
 }
