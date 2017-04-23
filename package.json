@@ -1,6 +1,9 @@
 {
     "name": "rightway",
-    "version": "1.0.0",
+    "version": "1.0.0",  
+    "scripts": {
+        "start": "node --harmony ./server.js"
+    },
     "keywords": ["util", "functional", "server", "client", "browser"],
     "author": "Administrator",
     "contributors": [],
